@@ -33,7 +33,7 @@ html,body{
 #video{
 	width: 50%;
 	height: 40%;
-	float: right;
+	float: left;
 	padding-top: 3%;
 	padding-right: 3%;
 }
@@ -46,6 +46,7 @@ html,body{
 	position: relative;
 	padding-top: 3%;
 	width: 40%;
+	margin-right: 15%;
 }
 #included{
 	margin-top: -3%;
@@ -211,7 +212,25 @@ h3{
 	font-weight: bold;
 	color: #ff8a21;
 }
-
+@media only screen and (min-width: 1501px)
+		{
+			#intro{
+				margin-bottom: 6%;
+			}
+			#video{
+				width: 40%;
+			}
+			#rectangles{
+				position: relative;
+				height: 10%;
+			}
+			#bullets{
+				float: left;
+				position: relative;
+				padding-top: 3%;
+				width: 35%;
+			}
+}
 @media only screen and (min-width: 1050px) and (max-width: 1500px)
 		{
 			#section2{
@@ -225,9 +244,6 @@ h3{
 				position: relative;
 				margin-top: 20%;
 				height: 10%;
-			}
-			#included{
-				width: 100%;
 			}
 			button{
 				width: 90%;
@@ -284,7 +300,6 @@ h3{
 				float: none;
 				padding-top: 3%;
 				width: 90%;
-				margin: 0 auto;
 			}
 			#intro button{
 				width: 60%;
