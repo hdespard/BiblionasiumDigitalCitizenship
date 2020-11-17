@@ -1,5 +1,7 @@
 # BiblionasiumDigitalCitizenship
 
+<a href="https://hdespard.github.io/BiblionasiumDigitalCitizenship/" target="_blank">View GitHub Page</a>
+
 Hi there! Thank you for taking the time to look over my digital citizenship landing page. This page was created to host <a href="https://www.biblionasium.com/" target="_blank">Biblionasium</a>'s free digital citizenship resources for teachers, librarians, and students.
 
 After I got my HTML5 and CSS certs from <a href="https://www.frameworktv.com/" target="_blank">Framework Television</a>, I wanted to put my new skills to use in a real-world setting. Marjan Ghara, CEO of <a href="https://www.biblionasium.com/" target="_blank">Biblionasium</a>, had commissioned me to create Biblionasium's digital citizenship program, so I offered to design a landing page for it from scratch. 
