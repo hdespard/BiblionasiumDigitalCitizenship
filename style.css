@@ -214,6 +214,9 @@ h3{
 }
 @media only screen and (min-width: 1501px)
 		{
+			#section2{
+				margin-bottom: 3%;
+			}
 			#intro{
 				margin-bottom: 6%;
 			}
@@ -231,7 +234,7 @@ h3{
 				width: 35%;
 			}
 }
-@media only screen and (min-width: 1050px) and (max-width: 1500px)
+@media only screen and (min-width: 1138px) and (max-width: 1500px)
 		{
 			#section2{
 				margin-bottom: 3%;
@@ -252,7 +255,7 @@ h3{
 				width: 30%;
 			}
 }
-@media only screen and (max-width: 1049px)
+@media only screen and (max-width: 1137px)
 		{
 			.orange	{
 				width: 100%;
@@ -295,6 +298,7 @@ h3{
 				}
 			#section2{
 				padding-bottom: 5%;
+				margin-left: 3%;
 			}
 			#bullets{
 				float: none;
@@ -323,6 +327,9 @@ h3{
 			}
 			#included{
 				width: 80%;
+			}
+			#section2{
+				margin-left: 3%;
 			}
 		}
 @media only screen and (min-width: 1400px)
